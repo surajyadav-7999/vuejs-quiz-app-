@@ -1,4 +1,5 @@
 # bquiz
+.
 
 ## Project setup
 ```
